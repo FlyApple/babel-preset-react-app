@@ -1,0 +1,12 @@
+.git/
+.npm/
+.vscode/
+node_modules/
+build/
+.DS_Store
+*.tgz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+package-lock.json
